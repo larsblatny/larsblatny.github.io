@@ -9,3 +9,9 @@ redirect_from:
 ---
 
 This website is under construction!
+
+Talks
+======
+
+Publications
+======
