@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student, École polytechnique fédérale de Lausanne (EPFL)"
   location         : "Lausanne, Switzerland"
-  employer         :
+  employer         : "https://people.epfl.ch/lars.blatny"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=adcfbiIAAAAJ&hl=en&oi=ao"
   email            :
