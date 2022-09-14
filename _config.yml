@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : # "Your Sidebar Name"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "PhD student, École polytechnique fédérale de Lausanne (EPFL)
   location         : "Lausanne, Switzerland"
   employer         :
