@@ -12,9 +12,7 @@ I am a PhD student in the [Snow and Avalanche Simulation Laboratory](https://www
 
 My research focuses on computational modeling of the mechanics/dynamics of porous solids and granular media (especially snow). In general, I am interested in the development and application of all kinds of numerical methods in solid and fluid mechanics. Currently, I’m particularly concerned with the Material Point Method (MPM).
 
-I received a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with the thesis entitled “Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence“ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam).
-
-Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consulting](https://www.tietoevry.com/) and interned at [Equinor](https://www.equinor.com/).
+I received a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with the thesis entitled “Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence“ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam). Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consulting](https://www.tietoevry.com/) and interned at [Equinor](https://www.equinor.com/).
 
 Feel free to follow me on ResearchGate, Google Scholar and LinkedIn (links in the sidebar).
 
