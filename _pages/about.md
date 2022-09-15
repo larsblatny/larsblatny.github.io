@@ -22,7 +22,7 @@ Publications
 ======
 
 ![prl](/images/cover_prl.gif)
-### Computational micromechanics of porous brittle solids
+### Microstructural origin of propagating compaction patterns in porous media
 **L. Blatny**, P. Berclaz, F. Guillard, I. Einav and J. Gaume  
 Physical Review Letters, 2022
 [View at publisher](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.228002) [Video](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4) [Supplemental Document](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)
