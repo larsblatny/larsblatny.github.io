@@ -21,24 +21,25 @@ Feel free to follow me on ResearchGate, Google Scholar and LinkedIn (links in th
 Publications
 ======
 
-![prl](/images/cover_prl.gif)
+
 ### Microstructural origin of propagating compaction patterns in porous media
 **L. Blatny**, P. Berclaz, F. Guillard, I. Einav and J. Gaume  
 Physical Review Letters, 2022  
-[View at publisher](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.228002) [Video](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4) [Supplemental Document](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)
-This work was featured in [Physics Magazine](https://physics.aps.org/articles/v15/s73)
+[View at publisher](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.228002) [Video](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4) [Supplemental Document](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)  
+This work was featured in [Physics Magazine](https://physics.aps.org/articles/v15/s73)  
+![prl](/images/cover_prl.gif)  
 
-![cicoira](/images/cover_cicoira.png)
 ### Towards a predictive multi-phase model for alpine mass movements and process cascades
 A. Cicoira, **L. Blatny**, X. Li, B. Trottet and J. Gaume  
 Preprint, 2021  
-[View preprint on EarthArXiv](https://eartharxiv.org/repository/view/2968/)
+[View preprint on EarthArXiv](https://eartharxiv.org/repository/view/2968/)  
+![cicoira](/images/cover_cicoira.png)  
 
-![comgeo](/images/cover_comgeo.gif)
 ### Computational micromechanics of porous brittle solids  
 **L. Blatny**, H. Löwe, S. Wang and J. Gaume  
 Computers and Geotechnics, 2021  
-[View at publisher](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)
+[View at publisher](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)  
+![comgeo](/images/cover_comgeo.gif)  
 
 
 Talks
