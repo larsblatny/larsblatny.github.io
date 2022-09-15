@@ -42,4 +42,15 @@ Computers and Geotechnics, 2021
 
 Talks
 ======
-Coming soon
+
+* _Constitutive modeling of snow_   
+[MultiPLES Laboratory](https://www.math.ucla.edu/multiples/), University of California, Los Angeles, May 10th 2022  
+
+* _Investigating the mechanics of porous brittle solids with the material point method and Gaussian random field microstructures_  
+[XVI International Conference on Computational Plasticity. Fundamentals and Applications (COMPLAS)](https://congress.cimne.com/complas2021/frontal/default.asp), September 8th 2021  
+
+* _A unified framework for computational microstructure-based snow mechanics_  
+[EGU General Assembly](https://meetingorganizer.copernicus.org/EGU21/EGU21-6108.html), April 27th 2021   
+
+* _Microstructure-based modeling of snow using the material point method and finite strain elastoplasticity_  
+[EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10203.html), May 8th 2020  
