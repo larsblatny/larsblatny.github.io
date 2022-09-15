@@ -31,7 +31,7 @@ This work was featured in [Physics Magazine](https://physics.aps.org/articles/v1
 A. Cicoira, **L. Blatny**, X. Li, B. Trottet and J. Gaume  
 Preprint, 2021  
 [View preprint on EarthArXiv](https://eartharxiv.org/repository/view/2968/)  
-![cicoira](/images/cover_cicoira.png)  
+![cicoira](/images/cover_earth.png)  
 
 ### Computational micromechanics of porous brittle solids  
 **L. Blatny**, H. Löwe, S. Wang and J. Gaume  
