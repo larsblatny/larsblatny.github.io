@@ -27,7 +27,7 @@ Publications
 
 > ### Towards a predictive multi-phase model for alpine mass movements and process cascades
 > A. Cicoira, **L. Blatny**, X. Li, B. Trottet and J. Gaume  
-> _Preprint_ (2021)  
+> _Engineering Geology_ (accepted)  
 > [View preprint on EarthArXiv](https://eartharxiv.org/repository/view/2968/)  
 > ![cicoira](/images/cover_earth.png)  
 
@@ -40,6 +40,9 @@ Publications
 
 Invited talks and presentations
 ======
+
+* Sep 29, 2022: _An elastic–viscoplastic constitutive model for snow avalanche dynamics_  
+[IGS International Symposium on Snow](https://www.igsoc.org/wp-content/uploads/2022/09/index_davos.html), Davos (on-site)  
 
 * Aug 2, 2022: _Plastic collapse in porous brittle solids_   
 [15th World Congress on Computation Mechanics (WCCM)](https://www.wccm2022.org/), Yokohama (virtual)  
