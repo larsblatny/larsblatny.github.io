@@ -29,7 +29,7 @@ Publications
 > A. Cicoira, **L. Blatny**, X. Li, B. Trottet and J. Gaume  
 > _Engineering Geology_ (accepted)  
 > [View preprint on EarthArXiv](https://eartharxiv.org/repository/view/2968/)  
-> ![cicoira](/images/cover_earth.png)  
+> ![cicoira](/images/cover_enggeo.gif)  
 
 > ### Computational micromechanics of porous brittle solids  
 > **L. Blatny**, H. Löwe, S. Wang and J. Gaume  
