@@ -21,14 +21,14 @@ Publications
 > ### Microstructural origin of propagating compaction patterns in porous media
 > **L. Blatny**, P. Berclaz, F. Guillard, I. Einav and J. Gaume  
 > _Physical Review Letters_ (2022)  
-> [View at publisher](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.228002) [Video](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4) [Supplemental Document](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)  
+> [View at publisher](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.228002) [[Video]](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4) [[Supplemental Document]](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)  
 > This work was featured in [Physics Magazine](https://physics.aps.org/articles/v15/s73)  
 > ![prl](/images/cover_prl.gif)  
 
 > ### Towards a predictive multi-phase model for alpine mass movements and process cascades
 > A. Cicoira, **L. Blatny**, X. Li, B. Trottet and J. Gaume  
-> _Engineering Geology_ (accepted)  
-> [View preprint on EarthArXiv](https://eartharxiv.org/repository/view/2968/)  
+> _Engineering Geology_ (2022)  
+> [View at publisher](https://www.sciencedirect.com/science/article/pii/S0013795222003519?via%3Dihub)  
 > ![cicoira](/images/cover_enggeo.gif)  
 
 > ### Computational micromechanics of porous brittle solids  
