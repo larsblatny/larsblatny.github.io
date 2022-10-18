@@ -41,6 +41,9 @@ Publications
 Invited talks and presentations
 ======
 
+* Oct 18, 2022: _Modeling granular media by combining μ(I)-rheology and critical state soil mechanics_  
+[Graphyz2 - The First Graphics-Physics Workshop, 2nd Ed.](https://project.inria.fr/graphyz2/), Arc-et-Senans (on-site)  
+
 * Sep 29, 2022: _An elastic–viscoplastic constitutive model for snow avalanche dynamics_  
 [IGS International Symposium on Snow](https://www.igsoc.org/wp-content/uploads/2022/09/index_davos.html), Davos (on-site)  
 
