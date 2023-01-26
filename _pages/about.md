@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Snow and Avalanche Simulation Laboratory](https://www.epfl.ch/labs/slab/) of [Prof. J. Gaume](https://people.epfl.ch/johan.gaume) at EPFL.
-My research focuses on computational modeling of the mechanics/dynamics of porous solids and granular media (especially snow). In general, I am interested in the development and application of all kinds of numerical methods in solid and fluid mechanics. Currently, I’m particularly concerned with the Material Point Method (MPM).
+I am a PhD student in the [Snow and Avalanche Simulation Laboratory](https://www.epfl.ch/labs/slab/) at EPFL, supervised by [Prof. J. Gaume](https://www.slf.ch/en/employees/gaume.html) and [Prof. J.-F. Molinari](https://people.epfl.ch/jean-francois.molinari).
+My research focuses on computational modeling of the mechanics of porous solids and granular flows, with a particular emphasis on snow. I'm currently working with the Material Point Method (MPM), however, I am interested in the development and application of all kinds of numerical methods in solid and fluid mechanics.
 
 I received a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with the thesis entitled “Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence“ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam). Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consulting](https://www.tietoevry.com/) and interned at [FFI](https://www.ffi.no/en) and  [Equinor](https://www.equinor.com/).
 
-Feel free to follow me on ResearchGate, Google Scholar and LinkedIn (links in the sidebar).
-
 Publications  
-======      
+======   
+
+> ### A depth-averaged material point method for shallow landslides: Applications to snow slab avalanche release
+> L. Guillet, **L. Blatny**, B. Trottet, D. Steffen and J. Gaume  
+> _Preprint_ (2023)  
+> [View on ArXiv](https://arxiv.org/abs/2301.06296)  
+> ![dampm](/images/cover_dampm.png)    
 
 > ### Microstructural origin of propagating compaction patterns in porous media
 > **L. Blatny**, P. Berclaz, F. Guillard, I. Einav and J. Gaume  
@@ -61,3 +65,7 @@ Invited talks and presentations
 
 * May 8, 2020: _Microstructure-based modeling of snow using the material point method and finite strain elastoplasticity_  
 [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10203.html), Vienna (virtual)  
+
+Code
+======
+_Coming soon!_
