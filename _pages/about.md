@@ -20,7 +20,7 @@ Publications
 > L. Guillet, **L. Blatny**, B. Trottet, D. Steffen and J. Gaume  
 > _Preprint_ (2023)  
 > [View on ArXiv](https://arxiv.org/abs/2301.06296)  
-> ![dampm](/images/cover_dampm.png)    
+> ![dampm](/images/cover_dampm_2.png)    
 
 > ### Microstructural origin of propagating compaction patterns in porous media
 > **L. Blatny**, P. Berclaz, F. Guillard, I. Einav and J. Gaume  
