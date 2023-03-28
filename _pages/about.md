@@ -23,11 +23,15 @@ Publications
 > [View at publisher](https://www.sciencedirect.com/science/article/pii/S1359645423001921)  
 > ![acta](/images/cover_acta.gif)  
 
+<br/><br/>
+
 > ### A depth-averaged material point method for shallow landslides: Applications to snow slab avalanche release
 > L. Guillet, **L. Blatny**, B. Trottet, D. Steffen and J. Gaume  
 > _Preprint_ (2023)  
 > [View on ArXiv](https://arxiv.org/abs/2301.06296)  
 > ![dampm](/images/cover_dampm_2.png)    
+
+<br/><br/>
 
 > ### Microstructural origin of propagating compaction patterns in porous media
 > **L. Blatny**, P. Berclaz, F. Guillard, I. Einav and J. Gaume  
@@ -36,11 +40,15 @@ Publications
 > This work was featured in [Physics Magazine](https://physics.aps.org/articles/v15/s73)  
 > ![prl](/images/cover_prl.gif)  
 
+<br/><br/>
+
 > ### Towards a predictive multi-phase model for alpine mass movements and process cascades
 > A. Cicoira, **L. Blatny**, X. Li, B. Trottet and J. Gaume  
 > _Engineering Geology_, vol. 310 (2022)  
 > [View at publisher](https://www.sciencedirect.com/science/article/pii/S0013795222003519?via%3Dihub)  
 > ![cicoira](/images/cover_enggeo.gif)  
+
+<br/><br/>
 
 > ### Computational micromechanics of porous brittle solids  
 > **L. Blatny**, H. Löwe, S. Wang and J. Gaume  
@@ -48,6 +56,7 @@ Publications
 > [View at publisher](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)  
 > ![comgeo](/images/cover_comgeo.gif)  
 
+<br/><br/>
 
 Invited talks and presentations
 ======
