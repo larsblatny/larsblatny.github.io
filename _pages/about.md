@@ -19,7 +19,7 @@ Publications
 
 > ### Microstructural controls on the plastic consolidation of porous brittle solids  
 > **L. Blatny**, H. Löwe and J. Gaume  
-> _Acta Materialia_ **250**(2023)  
+> _Acta Materialia_ **250** (2023)  
 > [View at publisher](https://www.sciencedirect.com/science/article/pii/S1359645423001921)  
 > ![acta](/images/cover_acta.gif)  
 
