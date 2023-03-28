@@ -17,6 +17,12 @@ I received a [Master of Science in Computational Science and Engineering](https:
 Publications  
 ======   
 
+> ### Microstructural controls on the plastic consolidation of porous brittle solids  
+> **L. Blatny**, H. Löwe and J. Gaume  
+> _Acta Materialia_ (2023)  
+> [View at publisher](https://www.sciencedirect.com/science/article/pii/S1359645423001921)  
+> ![acta](/images/cover_acta.gif)  
+
 > ### A depth-averaged material point method for shallow landslides: Applications to snow slab avalanche release
 > L. Guillet, **L. Blatny**, B. Trottet, D. Steffen and J. Gaume  
 > _Preprint_ (2023)  
