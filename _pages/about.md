@@ -61,6 +61,9 @@ Publications
 Invited talks and presentations
 ======
 
+* Jun 2, 2023: _Erosion, deposition, waves and rate-dependency in alpine mass movements_  
+[INRAE MPM Workshop 2023](https://mpminraeworkshop.sciencesconf.org/), Aix-en-Provence (on-site)  
+
 * Oct 18, 2022: _Modeling granular media by combining μ(I)-rheology and critical state soil mechanics_  
 [Graphyz2 - The First Graphics-Physics Workshop, 2nd Ed.](https://project.inria.fr/graphyz2/), Arc-et-Senans (on-site)  
 
