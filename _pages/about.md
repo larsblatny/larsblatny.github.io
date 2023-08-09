@@ -27,9 +27,9 @@ Publications
 
 > ### A depth-averaged material point method for shallow landslides: Applications to snow slab avalanche release
 > L. Guillet, **L. Blatny**, B. Trottet, D. Steffen and J. Gaume  
-> _Preprint_ (2023)  
-> [View on ArXiv](https://arxiv.org/abs/2301.06296)  
-> ![dampm](/images/cover_dampm_2.png)    
+> Journal of Geophysical Research - Earth Surface (in press, 2023)  
+> [View at publisher](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JF007092)  
+> ![dampm](/images/cover_dampm.gif)    
 
 <br/><br/>
 
