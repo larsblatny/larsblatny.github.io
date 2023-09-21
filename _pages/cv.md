@@ -14,7 +14,7 @@ redirect_from:
 > ### All classes
 > Typical compaction patterns emanating from a uniaxially loaded confined two-dimensional structured porous media, here with a solid area fraction of $\phi = 0.40$:
 > ![prl](/images/bands_classes.gif)
-> The structure is colored according to the plastic Hencky strain rate.    
+> The structures are colored according to the plastic Hencky strain rate. 
 > The following parameters are used to get the various patterns:        
 > (a) $S = 4 \cdot 10^{−3}, R = 10^{−5}$    
 > (b) $S = 4 \cdot 10^{−3}, R = 4 \cdot 10^{−4}$    
@@ -25,7 +25,8 @@ redirect_from:
 > Download full-resolution video [here](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4)      
 
 > ### Three-dimensional open-cell structure
-> While the above video shows two-dimensional structures, the same can be obtained with three-dimensional structures. Below is an example of an open-cell structure
+> While the above video shows two-dimensional structures, the same can be obtained with three-dimensional structures.
+> Below is an example of an open-cell structure.     
 > ![prl](/images/cover_prl.gif)     
 > Here, $S = 10^{−2}, R = 10^{−3}$  
 
