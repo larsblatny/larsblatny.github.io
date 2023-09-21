@@ -12,7 +12,7 @@ redirect_from:
 ## Propagating Compation Bands in Porous Media
 
 > ### All classes
-> Typical compaction patterns emanating from a uniaxially loaded confined two-dimensional structured porous media, here with a solid area fraction of $\phi = 0.40$:
+> Typical compaction patterns emanating from a uniaxially loaded confined two-dimensional structured porous media, here with a solid area fraction of $\phi = 0.40$:     
 > ![prl](/images/bands_classes.gif)
 > The structures are colored according to the plastic Hencky strain rate. 
 > The following parameters are used to get the various patterns:        
