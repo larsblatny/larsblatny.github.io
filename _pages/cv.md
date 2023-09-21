@@ -13,7 +13,7 @@ redirect_from:
 
 > ### All classes
 > Typical compaction patterns emanating from a uniaxially loaded confined two-dimensional structured porous media, here with a solid area fraction of $\phi = 0.40$:     
-> ![prl](/images/bands_classes.gif)
+> ![prl](/images/bands_classes.gif)     
 > The structures are colored according to the plastic Hencky strain rate. 
 > The following parameters are used to get the various patterns:        
 > (a) $S = 4 \cdot 10^{−3}, R = 10^{−5}$    
