@@ -1,59 +1,26 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Poster SES 2023: Propagating Compation Bands in porous Media"
+permalink: /propagatingbands/
 author_profile: true
 redirect_from:
-  - /resume
+  - /ses2023
 ---
 
 {% include base_path %}
 
-Education
+All pattern classes
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Three-dimensional open-cell structure
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+> ![prl](/images/cover_prl.gif)  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+> Read our full paper:
+> Microstructural origin of propagating compaction patterns in porous media
+> by L. Blatny, P. Berclaz, F. Guillard, I. Einav and J. Gaume  
+> published in _Physical Review Letters_, vol. 128 (2022)  
+> [View at publisher](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.228002) [[Video]](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4) [[Supplemental Document]](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)  
+> This work was featured in [Physics Magazine](https://physics.aps.org/articles/v15/s73)
