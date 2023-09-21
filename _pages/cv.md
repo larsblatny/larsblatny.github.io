@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Propagating Compation Bands in porous Media
-======
+## Propagating Compation Bands in porous Media
 
-#### All classes
+### All classes
+
+> ![prl](/images/bands_classes.gif)  
 
 Download full-resolution video [here](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4)   
 
-#### Three-dimensional open-cell structure
+### Three-dimensional open-cell structure
 
 > ![prl](/images/cover_prl.gif)  
 
