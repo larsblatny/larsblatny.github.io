@@ -36,5 +36,8 @@ redirect_from:
 > [Microstructural origin of propagating compaction patterns in porous media](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.228002)   
 > by L. Blatny, P. Berclaz, F. Guillard, I. Einav and J. Gaume   
 > published in _Physical Review Letters_, vol. 128 (2022)   
-> Download Supplemental Document [here](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)  
-> This work was featured in [Physics Magazine](https://physics.aps.org/articles/v15/s73)
+> Download supplemental document [here](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)  
+> This work was featured in [Physics Magazine](https://physics.aps.org/articles/v15/s73)      
+
+
+**Contact**: [Lars Blatny](https://larsblatny.github.io/)
