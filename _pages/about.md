@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Bio"
+excerpt: "Bio"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Alpine Mass Movements group of ETH Zürich and the Swiss Federal Institute for Snow and Avalanche Research ([SLF Davos](https://www.slf.ch/en/)). 
-In 2023, I defended my PhD in Mechanics at EPFL, supervised by [Prof. J. Gaume](https://igt.ethz.ch/people/person-detail.MzA5Njcx.TGlzdC8xMTYxLC0yMTE1ODgxMzY3.html) and [Prof. J.-F. Molinari](https://people.epfl.ch/jean-francois.molinari). 
+I am a postdoctoral researcher in the Alpine Mass Movements group of [ETH Zürich](https://ethz.ch/en.html) and the Swiss Federal Institute for Snow and Avalanche Research ([SLF Davos](https://www.slf.ch/en/)). 
+In 2023, I defended my [PhD in Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/), supervised by [Prof. J. Gaume](https://igt.ethz.ch/people/person-detail.MzA5Njcx.TGlzdC8xMTYxLC0yMTE1ODgxMzY3.html) and [Prof. J.-F. Molinari](https://people.epfl.ch/jean-francois.molinari). 
 My research focuses on computational modeling of the mechanics of porous solids and granular flows, with a particular emphasis on snow. 
 I'm currently working with the Material Point Method (MPM), however, I am interested in the development and application of all kinds of numerical methods in solid and fluid mechanics.
 
 Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consulting](https://www.tietoevry.com/) and interned at [FFI](https://www.ffi.no/en) and  [Equinor](https://www.equinor.com/).
-I received a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with the thesis entitled “Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence“ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam).
+I received a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with the thesis entitled _Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence_ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam).
 
 Publications  
 ======   
