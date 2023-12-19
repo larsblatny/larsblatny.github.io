@@ -63,6 +63,9 @@ Publications
 Invited talks and presentations
 ======
 
+* Oct 11, 2023: _Modeling cohesive and compressible granular flows with critical state µ(I)-rheology_  
+[Society of Engineering Sciences 2023](https://2023ses.com/), Minneapolis (on-site) 
+
 * Jun 2, 2023: _Erosion, deposition, waves and rate-dependency in alpine mass movements_  
 [INRAE MPM Workshop 2023](https://mpminraeworkshop.sciencesconf.org/), Aix-en-Provence (on-site)  
 
