@@ -1,17 +1,20 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+layout: archive
+title: "Poster at SWICCOMAS 2024:"
+permalink: /granularflow/
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+redirect_from:
+  - /swiccomas2024
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+{% include base_path %}
 
-Heading 1
-======
+## Granular Flow Modeling
 
-Heading 2
-======
+> ### Vallée de la Sionne 
+> Our proposed model is used to model a snow abalanche at Vallée de la Sionne (Commune d'Arbaz, Valais). The below animation shows the material (snow) being released on the real terrain from Vallée de la Sionne. The snow is colored according to its speed, see below colorbar.
+> ![prl](/images/vallee_de_la_sionne_colorbar.gif)            
+> ![prl](/images/vallee_de_la_sionne_colorbar_colorbar.png)      
+
+
+**Contact**: [Lars Blatny](https://larsblatny.github.io/)
