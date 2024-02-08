@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Poster at SES 2023:"
+title: "Propagating Compation Bands in Porous Media"
 permalink: /propagatingbands/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-## Propagating Compation Bands in Porous Media
 
 > ### All classes
 > Typical compaction patterns emanating from a uniaxially loaded confined two-dimensional structured porous media, here with a solid area fraction of $\phi = 0.40$:     
