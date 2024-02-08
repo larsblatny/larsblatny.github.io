@@ -15,7 +15,7 @@ redirect_from:
 > ![vdls1](/images/vallee_de_la_sionne.gif)            
 > ![vdls2](/images/vallee_de_la_sionne_colorbar.png)  
 
-> ### Other aninimations
+> ### Other animations
 > Further simulation movies may be found on our ETH website [here](https://alpinemassmovements.ethz.ch/research/computational-granular-mechanics.html).
 
 
