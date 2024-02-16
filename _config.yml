@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : # "Your Sidebar Name"
-  avatar           : "profile2024_h.jpeg"
+  avatar           : "profile2024_h_crop.jpeg"
   bio              : "Dr. Lars Blatny <br> Postdoc, SLF / ETH Zürich"
   biotwo           : #"Postdoc, SLF / ETH Zürich"
   location         : "Davos/Zürich, Switzerland"
