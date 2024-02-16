@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Alpine Mass Movements group](https://alpinemassmovements.ethz.ch/) of ETH Zürich and the Swiss Federal Institute for Snow and Avalanche Research (SLF) in Davos.  
+I am a postdoctoral researcher in the [Alpine Mass Movements](https://alpinemassmovements.ethz.ch/) group of [ETH Zürich](https://ethz.ch/en/) and the Swiss Federal Institute for Snow and Avalanche Research ([SLF](https://www.slf.ch/en/)) in Davos. 
 In 2023, I defended my [PhD in Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/), supervised by [Prof. J. Gaume](https://igt.ethz.ch/people/person-detail.MzA5Njcx.TGlzdC8xMTYxLC0yMTE1ODgxMzY3.html) and [Prof. J.-F. Molinari](https://people.epfl.ch/jean-francois.molinari). 
 My research focuses on computational modeling of the mechanics of porous solids and granular flows, with a particular emphasis on snow. 
 I'm currently working with the Material Point Method (MPM), however, I am interested in the development and application of all kinds of numerical methods in solid and fluid mechanics.
