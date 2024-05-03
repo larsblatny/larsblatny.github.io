@@ -17,7 +17,15 @@ Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consult
 I received a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with the thesis entitled _Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence_ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam).
 
 Publications  
-======   
+======  
+
+> ### Transition between mechanical and geometric controls in glacier crevassing processes   
+> H. Rousseau, J. Gaume, **L. Blatny** and M. Lüthi    
+> _Geophysical Research Letters_, vol. 51 (2024)    
+> [View at publisher](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL108206)    
+> ![grl](/images/cover_grl.gif)   
+
+<br/><br/>
 
 > ### Microstructural controls on the plastic consolidation of porous brittle solids  
 > **L. Blatny**, H. Löwe and J. Gaume  
