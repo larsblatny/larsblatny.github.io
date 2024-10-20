@@ -19,6 +19,14 @@ I received a [Master of Science in Computational Science and Engineering](https:
 Publications  
 ======  
 
+> ### A critical state μ(I)-rheology model for cohesive granular flows  
+> L. Blatny, J.M.N.T. Gray and J. Gaume    
+> _Journal of Fluid Mechanics_, in press (2024)    
+> [View at publisher](https://doi.org/10.1017/jfm.2024.643)    
+> ![grl](/images/cover_jfm.gif)   
+
+<br/><br/>
+
 > ### Transition between mechanical and geometric controls in glacier crevassing processes   
 > H. Rousseau, J. Gaume, **L. Blatny** and M. Lüthi    
 > _Geophysical Research Letters_, vol. 51 (2024)    
@@ -71,6 +79,12 @@ Publications
 Invited talks and presentations
 ======
 
+* Oct 24, 2024: _Continuum modeling of cohesive and compressible granular flows with elasto-viscoplasticity_  
+[60th Anniversary of Groupe Français de Rhéologie](https://2024.legfr.fr/), Marseille (on-site) 
+
+* Sep 30, 2024: _The emergence of propagating compaction bands in porous inelastic media_  
+[ALERT Geomaterials Workshop 2024](https://alertgeomaterials.eu/presentations-of-the-alert-workshop-2024/), Aussois (on-site) 
+
 * Oct 11, 2023: _Modeling cohesive and compressible granular flows with critical state µ(I)-rheology_  
 [Society of Engineering Sciences 2023](https://2023ses.com/), Minneapolis (on-site) 
 
@@ -100,4 +114,9 @@ Invited talks and presentations
 
 Code
 ======
-_Coming soon!_
+I am soon releasing an efficient and low-dependency Material Point Method code written in C++ for modeling elasto-viscoplastic materials. It is parallelized with OpenMP and easily adaptable to many problems. Many constitutive models are directly avalaible, formulated in a finite strain framework. The code is called _Ma++er_ (pronounced _Matter_).
+Please contact me if you are interested!
+
+> ![matter](/images/matter.png) 
+
+_More info coming soon!_
