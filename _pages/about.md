@@ -117,6 +117,6 @@ Code
 I am soon releasing an efficient and low-dependency Material Point Method code written in C++ for modeling elasto-viscoplastic materials. It is parallelized with OpenMP and easily adaptable to many problems. Many constitutive models are directly avalaible, formulated in a finite strain framework. The code is called _Ma++er_ (pronounced _Matter_).
 Please contact me if you are interested!
 
-> ![matter](/images/matter.png) 
+![matter](/images/matter.png) 
 
 _More info coming soon!_
