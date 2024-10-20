@@ -20,7 +20,7 @@ Publications
 ======  
 
 > ### A critical state μ(I)-rheology model for cohesive granular flows  
-> L. Blatny, J.M.N.T. Gray and J. Gaume    
+> **L. Blatny**, J.M.N.T. Gray and J. Gaume    
 > _Journal of Fluid Mechanics_, in press (2024)    
 > [View at publisher](https://doi.org/10.1017/jfm.2024.643)    
 > ![grl](/images/cover_jfm.gif)   
