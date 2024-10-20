@@ -23,7 +23,7 @@ Publications
 > **L. Blatny**, J.M.N.T. Gray and J. Gaume    
 > _Journal of Fluid Mechanics_, in press (2024)    
 > [View at publisher](https://doi.org/10.1017/jfm.2024.643)    
-> ![grl](/images/cover_jfm.gif)   
+> ![jfm](/images/cover_jfm.gif)   
 
 <br/><br/>
 
@@ -74,37 +74,44 @@ Publications
 > [View at publisher](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)  
 > ![comgeo](/images/cover_comgeo.gif)  
 
-<br/><br/>
+<br/>
+
+My PhD thesis is available [here](https://infoscience.epfl.ch/entities/publication/63e10740-baa3-46e7-b2b7-a4ce044f462b/thesisdetails). DOI: [10.5075/epfl-thesis-10267](https://doi.org/10.5075/epfl-thesis-10267)
+
+<br/>
 
 Invited talks and presentations
 ======
 
 * Oct 24, 2024: _Continuum modeling of cohesive and compressible granular flows with elasto-viscoplasticity_  
-[60th Anniversary of Groupe Français de Rhéologie](https://2024.legfr.fr/), Marseille (on-site) 
+[60th Anniversary of Groupe Français de Rhéologie](https://2024.legfr.fr/), Marseille, France  
 
 * Sep 30, 2024: _The emergence of propagating compaction bands in porous inelastic media_  
-[ALERT Geomaterials Workshop 2024](https://alertgeomaterials.eu/presentations-of-the-alert-workshop-2024/), Aussois (on-site) 
+[ALERT Geomaterials Workshop 2024](https://alertgeomaterials.eu/presentations-of-the-alert-workshop-2024/), Aussois, France  
+
+* Jul 4, 2024: _Modeling snow through its solid and liquid phase_   
+[SANDLESS 2024](https://scigem-eng.sydney.edu.au/sandless/), Sydney, Australia  
 
 * Oct 11, 2023: _Modeling cohesive and compressible granular flows with critical state µ(I)-rheology_  
-[Society of Engineering Sciences 2023](https://2023ses.com/), Minneapolis (on-site) 
+[Society of Engineering Sciences 2023](https://2023ses.com/), Minneapolis, USA  
 
 * Jun 2, 2023: _Erosion, deposition, waves and rate-dependency in alpine mass movements_  
-[INRAE MPM Workshop 2023](https://mpminraeworkshop.sciencesconf.org/), Aix-en-Provence (on-site)  
+[INRAE MPM Workshop 2023](https://mpminraeworkshop.sciencesconf.org/), Aix-en-Provence, France    
 
 * Oct 18, 2022: _Modeling granular media by combining μ(I)-rheology and critical state soil mechanics_  
-[Graphyz2 - The First Graphics-Physics Workshop, 2nd Ed.](https://project.inria.fr/graphyz2/), Arc-et-Senans (on-site)  
+[Graphyz2 - The First Graphics-Physics Workshop, 2nd Ed.](https://project.inria.fr/graphyz2/), Arc-et-Senans, France     
 
 * Sep 29, 2022: _An elastic–viscoplastic constitutive model for snow avalanche dynamics_  
-[IGS International Symposium on Snow](https://www.igsoc.org/wp-content/uploads/2022/09/index_davos.html), Davos (on-site)  
+[IGS International Symposium on Snow](https://www.igsoc.org/wp-content/uploads/2022/09/index_davos.html), Davos, Switzerland     
 
 * Aug 2, 2022: _Plastic collapse in porous brittle solids_   
 [15th World Congress on Computation Mechanics (WCCM)](https://www.wccm2022.org/), Yokohama (virtual)  
 
 * May 10, 2022: _Constitutive modeling of snow_   
-[MultiPLES Laboratory](https://www.math.ucla.edu/multiples/), University of California, Los Angeles (on-site)  
+[MultiPLES Laboratory](https://www.math.ucla.edu/multiples/), University of California, Los Angeles, USA    
 
 * Sep 8, 2021: _Investigating the mechanics of porous brittle solids with the material point method and Gaussian random field microstructures_  
-[XVI International Conference on Computational Plasticity (COMPLAS)](https://congress.cimne.com/complas2021/frontal/default.asp), Barcelona (on-site)  
+[XVI International Conference on Computational Plasticity (COMPLAS)](https://congress.cimne.com/complas2021/frontal/default.asp), Barcelona, Spain   
 
 * Apr 27, 2021: _A unified framework for computational microstructure-based snow mechanics_  
 [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU21/EGU21-6108.html), Vienna (virtual)   
@@ -114,7 +121,9 @@ Invited talks and presentations
 
 Code
 ======
-I am soon releasing an efficient and low-dependency Material Point Method code written in C++ for modeling elasto-viscoplastic materials. It is parallelized with OpenMP and easily adaptable to many problems. Many constitutive models are directly avalaible, formulated in a finite strain framework. The code is called _Ma++er_ (pronounced _Matter_).
+I am soon releasing an efficient and low-dependency Material Point Method code written in C++ for modeling elasto-viscoplastic materials.
+It is parallelized with OpenMP and easily adaptable to many problems. Many constitutive models are directly avalaible, formulated in a finite strain framework.
+The code is called _Ma++er_ (pronounced _Matter_).   
 Please contact me if you are interested!
 
 ![matter](/images/matter.png) 
