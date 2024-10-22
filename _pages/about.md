@@ -21,7 +21,7 @@ Publications
 
 > ### A critical state μ(I)-rheology model for cohesive granular flows  
 > **L. Blatny**, J.M.N.T. Gray and J. Gaume    
-> _Journal of Fluid Mechanics_, in press (2024)    
+> _Journal of Fluid Mechanics_, vol. 997 (2024)   
 > [View at publisher](https://doi.org/10.1017/jfm.2024.643)    
 > ![jfm](/images/cover_jfm.gif)   
 
@@ -30,7 +30,7 @@ Publications
 > ### Transition between mechanical and geometric controls in glacier crevassing processes   
 > H. Rousseau, J. Gaume, **L. Blatny** and M. Lüthi    
 > _Geophysical Research Letters_, vol. 51 (2024)    
-> [View at publisher](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL108206)    
+> [View at publisher](https://doi.org/10.1029/2024GL108206)    
 > ![grl](/images/cover_grl.gif)   
 
 <br/><br/>
@@ -38,7 +38,7 @@ Publications
 > ### Microstructural controls on the plastic consolidation of porous brittle solids  
 > **L. Blatny**, H. Löwe and J. Gaume  
 > _Acta Materialia_, vol. 250 (2023)  
-> [View at publisher](https://www.sciencedirect.com/science/article/pii/S1359645423001921)  
+> [View at publisher](https://doi.org/10.1016/j.actamat.2023.118861)  
 > ![acta](/images/cover_acta.gif)  
 
 <br/><br/>
@@ -46,7 +46,7 @@ Publications
 > ### A depth-averaged material point method for shallow landslides: Applications to snow slab avalanche release
 > L. Guillet, **L. Blatny**, B. Trottet, D. Steffen and J. Gaume  
 > _Journal of Geophysical Research - Earth Surface_, vol. 128 (2023)  
-> [View at publisher](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JF007092)  
+> [View at publisher](https://doi.org/10.1029/2023JF007092)  
 > ![dampm](/images/cover_dampm.gif)    
 
 <br/><br/>
@@ -54,7 +54,7 @@ Publications
 > ### Microstructural origin of propagating compaction patterns in porous media
 > **L. Blatny**, P. Berclaz, F. Guillard, I. Einav and J. Gaume  
 > _Physical Review Letters_, vol. 128 (2022)  
-> [View at publisher](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.228002) [[Video]](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4) [[Supplemental Document]](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)  
+> [View at publisher](https://doi.org/10.1103/PhysRevLett.128.228002) [[Video]](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplementary_movie_1.mp4) [[Supplemental Document]](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.228002/supplement_rev16022022.pdf)  
 > This work was featured in [Physics Magazine](https://physics.aps.org/articles/v15/s73)  
 > ![prl](/images/cover_prl.gif)  
 
@@ -63,7 +63,7 @@ Publications
 > ### Towards a predictive multi-phase model for alpine mass movements and process cascades
 > A. Cicoira, **L. Blatny**, X. Li, B. Trottet and J. Gaume  
 > _Engineering Geology_, vol. 310 (2022)  
-> [View at publisher](https://www.sciencedirect.com/science/article/pii/S0013795222003519?via%3Dihub)  
+> [View at publisher](https://doi.org/10.1016/j.enggeo.2022.106866)  
 > ![cicoira](/images/cover_enggeo.gif)  
 
 <br/><br/>
@@ -71,7 +71,7 @@ Publications
 > ### Computational micromechanics of porous brittle solids  
 > **L. Blatny**, H. Löwe, S. Wang and J. Gaume  
 > _Computers and Geotechnics_, vol. 140 (2021)  
-> [View at publisher](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)  
+> [View at publisher](https://doi.org/10.1016/j.compgeo.2021.104284)  
 > ![comgeo](/images/cover_comgeo.gif)  
 
 <br/>
