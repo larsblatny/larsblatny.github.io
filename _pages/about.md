@@ -23,7 +23,7 @@ Publications
 > **L. Blatny**, J.M.N.T. Gray and J. Gaume    
 > _Journal of Fluid Mechanics_, vol. 997 (2024)   
 > [View at publisher](https://doi.org/10.1017/jfm.2024.643)    
-> ![jfm](/images/cover_jfm.gif)   
+> ![jfm](/images/cover_jfm_bump.gif)   
 
 <br/><br/>
 
