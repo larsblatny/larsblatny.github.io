@@ -82,8 +82,8 @@ analytics:
 author:
   name             : # "Your Sidebar Name"
   avatar           : "profile2024_h_crop.jpeg"
-  bio              : "Dr. Lars Blatny <br> Postdoc, SLF / ETH Zürich"
-  biotwo           : #"Postdoc, SLF / ETH Zürich"
+  bio              : "Dr. Lars Blatny <br> SLF Davos / ETH Zürich"
+  biotwo           : #"SLF Davos / ETH Zürich"
   location         : "Davos/Zürich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
