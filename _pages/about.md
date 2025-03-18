@@ -76,11 +76,6 @@ Publications
 > [View at publisher](https://doi.org/10.1016/j.compgeo.2021.104284)  
 > ![comgeo](/images/cover_comgeo.gif)  
 
-<br/>
-
-My PhD thesis is available [here](https://infoscience.epfl.ch/entities/publication/63e10740-baa3-46e7-b2b7-a4ce044f462b/thesisdetails). DOI: [10.5075/epfl-thesis-10267](https://doi.org/10.5075/epfl-thesis-10267)
-
-<br/>
 
 Invited talks and presentations
 ======
@@ -121,13 +116,15 @@ Invited talks and presentations
 * May 8, 2020: _Microstructure-based modeling of snow using the material point method and finite strain elastoplasticity_  
 [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10203.html), Vienna (virtual)  
 
+Thesis
+======
+PhD Mechanics, École Polytechnique Fédérale de Lausanne, _Modeling the mechanics and rheology of porous and granular media: an elastoplastic continuum approach_. Supervisors: Prof. J. Gaume, Prof. J.F. Molinari. DOI: [10.5075/epfl-thesis-10267](https://doi.org/10.5075/epfl-thesis-10267)
+
+MSc Computational Science and Engineering, ETH Zürich, _Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence_. Supervisor: Prof. S. Mishra.
+
 Code
 ======
-I am soon releasing an efficient and low-dependency Material Point Method code written in C++ for modeling elasto-viscoplastic materials.
-It is parallelized with OpenMP and easily adaptable to many problems. Many constitutive models are directly avalaible, formulated in a finite strain framework.
-The code is called _Ma++er_ (pronounced _Matter_).   
-Please contact me if you are interested!
 
-![matter](/images/matter.png) 
+[Matter](https://github.com/larsblatny/matter): A 2D and 3D Material Point Method (MPM) solver written in C++ specifically designed for granular mechanics and rheology, based on a finite strain elasto-viscoplastic framework. 
 
-_More info coming soon!_
+[GRFsaw](https://github.com/larsblatny/GRFsaw): A simple Python code for constructing and processing artificial binary microstructures in 2D or 3D
