@@ -19,7 +19,7 @@ Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consult
 I hold a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with my thesis entitled _Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence_ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam).
 -->
 
-Use the menu to find my other links (Scholar, Researchgate, GitHub). Below you will find selected    
+Use the menu to find my other links (Scholar, ResearchGate, LinkedIn, GitHub). Below you will find selected    
 [Publications](#publications)    
 [Invited talks and presentations](#invited-talks-and-presentations)    
 [Open-source codes](#code)   
