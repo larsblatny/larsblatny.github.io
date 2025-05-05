@@ -14,12 +14,20 @@ In 2023, I defended my [PhD in Mechanics](https://www.epfl.ch/education/phd/edme
 My research focuses on computational modeling of the mechanics of porous solids and granular flows, with a particular emphasis on snow. 
 I'm currently working with the Material Point Method (MPM), however, I am interested in the development and application of all kinds of numerical methods in solid and fluid mechanics.
 
-Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consulting](https://www.tietoevry.com/) and interned at [FFI](https://www.ffi.no/en) and  [Equinor](https://www.equinor.com/).
-I received a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with the thesis entitled _Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence_ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam).
+Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consulting](https://www.tietoevry.com/) and interned at [FFI](https://www.ffi.no/en) and [Equinor](https://www.equinor.com/).
+I hold a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with my thesis entitled _Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence_ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam).
 -->
 
 Publications  
 ======  
+
+> ### Matter (v1): An open-source MPM solver for granular matter  
+> **L. Blatny** and J. Gaume    
+> _EGUsphere_, (2025)   
+> [View at publisher](https://doi.org/10.5194/egusphere-2025-1157)    
+> ![gmd](/images/silo_fps30_10X_cropped_medium.gif)   
+
+<br/><br/>
 
 > ### A critical state μ(I)-rheology model for cohesive granular flows  
 > **L. Blatny**, J.M.N.T. Gray and J. Gaume    
@@ -76,6 +84,7 @@ Publications
 > [View at publisher](https://doi.org/10.1016/j.compgeo.2021.104284)  
 > ![comgeo](/images/cover_comgeo.gif)  
 
+<br/><br/>
 
 Invited talks and presentations
 ======
@@ -116,15 +125,19 @@ Invited talks and presentations
 * May 8, 2020: _Microstructure-based modeling of snow using the material point method and finite strain elastoplasticity_  
 [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10203.html), Vienna (virtual)  
 
-Thesis
-======
-PhD Mechanics, École Polytechnique Fédérale de Lausanne, _Modeling the mechanics and rheology of porous and granular media: an elastoplastic continuum approach_. Supervisors: Prof. J. Gaume, Prof. J.F. Molinari. DOI: [10.5075/epfl-thesis-10267](https://doi.org/10.5075/epfl-thesis-10267)
+<br/><br/>
 
-MSc Computational Science and Engineering, ETH Zürich, _Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence_. Supervisor: Prof. S. Mishra.
+Theses
+======
+* _Modeling the mechanics and rheology of porous and granular media: an elastoplastic continuum approach_. EPFL. Supervisors: Prof. J. Gaume, Prof. J.F. Molinari. DOI: [10.5075/epfl-thesis-10267](https://doi.org/10.5075/epfl-thesis-10267)    
+
+* _Computing measure-valued solutions of the Leray-alpha model of turbulence_. ETH Zürich.  Supervisor: Prof. S. Mishra.    
+
+<br/><br/>
 
 Code
 ======
 
-[Matter](https://github.com/larsblatny/matter): A 2D and 3D Material Point Method (MPM) solver written in C++ specifically designed for granular mechanics and rheology, based on a finite strain elasto-viscoplastic framework. 
+* [Matter](https://github.com/larsblatny/matter): A 2D and 3D Material Point Method (MPM) solver written in C++ specifically designed for granular mechanics and rheology, based on a finite strain elasto-viscoplastic framework.    
 
-[GRFsaw](https://github.com/larsblatny/GRFsaw): A simple Python code for constructing and processing artificial binary microstructures in 2D or 3D
+* [GRFsaw](https://github.com/larsblatny/GRFsaw): A simple Python code for constructing and processing artificial binary microstructures in 2D or 3D   
