@@ -8,18 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-<!--
-I am a postdoctoral researcher in the [Alpine Mass Movements](https://alpinemassmovements.ethz.ch/) group of [ETH Zürich](https://ethz.ch/en/) and the Swiss Federal Institute for Snow and Avalanche Research ([SLF](https://www.slf.ch/en/)) in Davos. 
-In 2023, I defended my [PhD in Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/), supervised by [Prof. J. Gaume](https://igt.ethz.ch/people/person-detail.MzA5Njcx.TGlzdC8xMTYxLC0yMTE1ODgxMzY3.html) and [Prof. J.-F. Molinari](https://people.epfl.ch/jean-francois.molinari). 
-My research focuses on computational modeling of the mechanics of porous solids and granular flows, with a particular emphasis on snow. 
-I'm currently working with the Material Point Method (MPM), however, I am interested in the development and application of all kinds of numerical methods in solid and fluid mechanics.
+# Welcome!
 
+I am a postdoctoral researcher in the [Alpine Mass Movements](https://alpinemassmovements.ethz.ch/) group of [ETH Zürich](https://ethz.ch/en/) and the Swiss Federal Institute for Snow and Avalanche Research [SLF](https://www.slf.ch/en/). 
+My research focuses on computational modeling of the mechanics of porous solids and granular flows, with a particular emphasis on snow. 
+<!--
+I'm currently working with the Material Point Method (MPM), however, I am interested in the development and application of all kinds of numerical methods in solid and fluid mechanics. 
+In 2023, I defended my [PhD in Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/), supervised by [Prof. J. Gaume](https://igt.ethz.ch/people/person-detail.MzA5Njcx.TGlzdC8xMTYxLC0yMTE1ODgxMzY3.html) and [Prof. J.-F. Molinari](https://people.epfl.ch/jean-francois.molinari). 
 Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consulting](https://www.tietoevry.com/) and interned at [FFI](https://www.ffi.no/en) and [Equinor](https://www.equinor.com/).
 I hold a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with my thesis entitled _Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence_ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam).
 -->
 
-Publications  
-======  
+Use the menu to find my other links (Scholar, Researchgate, GitHub). Below you will find selected    
+[Publications](#publications)    
+[Invited talks and presentations](#invited-talks-and-presentations)    
+[Open-source codes](#code)   
+
+# Publications
 
 > ### Matter (v1): An open-source MPM solver for granular matter  
 > **L. Blatny** and J. Gaume    
@@ -86,8 +91,7 @@ Publications
 
 <br/><br/>
 
-Invited talks and presentations
-======
+# Invited talks and presentations
 
 * Oct 24, 2024: _Continuum modeling of cohesive and compressible granular flows with elasto-viscoplasticity_  
 [60th Anniversary of Groupe Français de Rhéologie](https://2024.legfr.fr/), Marseille, France  
@@ -127,16 +131,15 @@ Invited talks and presentations
 
 <br/><br/>
 
-Theses
-======
-* _Modeling the mechanics and rheology of porous and granular media: an elastoplastic continuum approach_. EPFL. Supervisors: Prof. J. Gaume, Prof. J.F. Molinari. DOI: [10.5075/epfl-thesis-10267](https://doi.org/10.5075/epfl-thesis-10267)    
+# Theses
 
-* _Computing measure-valued solutions of the Leray-alpha model of turbulence_. ETH Zürich.  Supervisor: Prof. S. Mishra.    
+* _Modeling the mechanics and rheology of porous and granular media: an elastoplastic continuum approach_. EPFL. Supervisors: Prof. J. Gaume, Prof. J.F. Molinari. DOI: [10.5075/epfl-thesis-10267](https://doi.org/10.5075/epfl-thesis-10267)     
+
+* _Computing measure-valued solutions of the Leray-alpha model of turbulence_. ETH Zürich.  Supervisor: Prof. S. Mishra.     
 
 <br/><br/>
 
-Code
-======
+# Code
 
 * [Matter](https://github.com/larsblatny/matter): A 2D and 3D Material Point Method (MPM) solver written in C++ specifically designed for granular mechanics and rheology, based on a finite strain elasto-viscoplastic framework.    
 
