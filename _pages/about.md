@@ -93,6 +93,12 @@ Use the menu to find my other links (Scholar, ResearchGate, LinkedIn, GitHub). B
 
 # Invited talks and presentations
 
+* Jun 25, 2025: _MPM modeling of alpine mass movements with granular rheologies_  
+[4th IMA Conference on Dense Granular Flows](https://cdn.ima.org.uk/wp/wp-content/uploads/2025/06/4th-IMA-Conference-on-Dense-Granular-Flows-Timetable_0006.pdf), Cambridge, UK  
+
+* Jun 17, 2025: _Modeling granular mechanics and flow with MPM_  
+[Jean Le Rond d'Alembert Institute Seminar](https://www.youtube.com/live/Gzl3ulgzznY?si=iEuXbUFXCY4sUYLY), Paris, France  
+
 * Oct 24, 2024: _Continuum modeling of cohesive and compressible granular flows with elasto-viscoplasticity_  
 [60th Anniversary of Groupe Français de Rhéologie](https://2024.legfr.fr/), Marseille, France  
 
