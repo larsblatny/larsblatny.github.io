@@ -10,19 +10,14 @@ redirect_from:
 
 # Welcome!
 
-I am a postdoctoral researcher in the [Alpine Mass Movements](https://alpinemassmovements.ethz.ch/) group of [ETH Zürich](https://ethz.ch/en/) and the Swiss Federal Institute for Snow and Avalanche Research [SLF](https://www.slf.ch/en/). 
 My research focuses on computational modeling of the mechanics of porous solids and granular flows, with a particular emphasis on snow. 
-<!--
-I'm currently working with the Material Point Method (MPM), however, I am interested in the development and application of all kinds of numerical methods in solid and fluid mechanics. 
-In 2023, I defended my [PhD in Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/), supervised by [Prof. J. Gaume](https://igt.ethz.ch/people/person-detail.MzA5Njcx.TGlzdC8xMTYxLC0yMTE1ODgxMzY3.html) and [Prof. J.-F. Molinari](https://people.epfl.ch/jean-francois.molinari). 
-Previously, I have worked for [DNV Oil&Gas](https://www.dnv.com/), [EVRY Consulting](https://www.tietoevry.com/) and interned at [FFI](https://www.ffi.no/en) and [Equinor](https://www.equinor.com/).
-I hold a [Master of Science in Computational Science and Engineering](https://rw.ethz.ch/) from ETH Zürich in 2018, with my thesis entitled _Computing Measure-Valued Solutions of the Leray-Alpha Model of Turbulence_ supervised by [Prof. S. Mishra](https://camlab.ethz.ch/the-group/group-head.html) at the [Seminar for Applied Mathematics](https://math.ethz.ch/sam).
--->
 
-Use the menu to find my other links (Scholar, ResearchGate, LinkedIn, GitHub). Below you will find selected    
+Below you will find selected    
 [Publications](#publications)    
 [Invited talks and presentations](#invited-talks-and-presentations)    
-[Open-source codes](#code)   
+[Open-source codes](#code)     
+
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=adcfbiIAAAAJ&hl=en&oi=ao), [ResearchGate](https://www.researchgate.net/profile/Lars-Blatny), [LinkedIn](https://www.linkedin.com/in/lars-blatny), [GitHub](https://github.com/larsblatny).
 
 # Publications
 

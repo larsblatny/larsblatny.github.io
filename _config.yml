@@ -82,9 +82,9 @@ analytics:
 author:
   name             : # "Your Sidebar Name"
   avatar           : "profile2024_h_crop.jpeg"
-  bio              : "Dr. Lars Blatny <br> SLF Davos / ETH Zürich"
+  bio              : "Dr. Lars Blatny <br> ETH Zürich"
   biotwo           : #"SLF Davos / ETH Zürich"
-  location         : "Davos/Zürich, Switzerland"
+  location         : "Zürich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=adcfbiIAAAAJ&hl=en&oi=ao"
