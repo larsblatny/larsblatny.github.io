@@ -21,10 +21,19 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 # Publications
 
+> ### Continuum modeling of cohesive and compressible granular matter  
+> **L. Blatny**, J.M.N.T. Gray and J. Gaume    
+> _10th Powders and Grains, EPJ Web Conf._, vol. 340 (2025)    
+> [View at publisher](https://doi.org/10.1051/epjconf/202534002013)    
+> ![pg](/images/cover_collapse_pg.gif)   
+
+<br/><br/>
+
 > ### Matter (v1): An open-source MPM solver for granular matter  
 > **L. Blatny** and J. Gaume    
-> _EGUsphere_, (2025)   
-> [View at publisher](https://doi.org/10.5194/egusphere-2025-1157)    
+> _Geoscientific Model Development_, vol. 18 (2025)   
+> [View at publisher](https://doi.org/10.5194/gmd-18-9149-2025)    
+> This work was featured in the [ETH News](https://baug.ethz.ch/en/news-and-events/news/2025/12/new-software-simulates-granular-flows-and-avalanches.html)    
 > ![gmd](/images/silo_fps30_10X_cropped_medium.gif)   
 
 <br/><br/>
