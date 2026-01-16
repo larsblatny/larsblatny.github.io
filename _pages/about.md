@@ -15,7 +15,7 @@ My research focuses on computational modeling of the mechanics of porous solids 
 Below you will find selected    
 [Publications](#publications)    
 [Invited talks and presentations](#invited-talks-and-presentations)    
-[Open-source codes](#code)     
+[Open-source codes](#software)     
 
 You can also find me on [Google Scholar](https://scholar.google.com/citations?user=adcfbiIAAAAJ&hl=en&oi=ao), [ResearchGate](https://www.researchgate.net/profile/Lars-Blatny), [LinkedIn](https://www.linkedin.com/in/lars-blatny), [GitHub](https://github.com/larsblatny).
 
@@ -157,8 +157,8 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 <br/><br/>
 
-# Code
+# Software
 
-* [Matter](https://github.com/larsblatny/matter): A 2D and 3D Material Point Method (MPM) solver written in C++ specifically designed for granular mechanics and rheology, based on a finite strain elasto-viscoplastic framework.    
+* *Matter* [[Code]](https://github.com/larsblatny/matter) [[Paper]](https://gmd.copernicus.org/articles/18/9149/2025/gmd-18-9149-2025.pdf): A 2D and 3D Material Point Method (MPM) solver written in C++ specifically designed for granular mechanics and rheology, based on a finite strain elasto-viscoplastic framework.  
 
-* [GRFsaw](https://github.com/larsblatny/GRFsaw): A simple Python code for constructing and processing artificial binary microstructures in 2D or 3D   
+* GRFsaw [[Code]](https://github.com/larsblatny/GRFsaw) [[Paper]](https://arxiv.org/pdf/2412.05168): A simple Python code for constructing and processing artificial binary microstructures in 2D or 3D.  
