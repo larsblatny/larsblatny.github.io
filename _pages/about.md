@@ -23,7 +23,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 > ### Observations and modeling of slushflows from Atigun Pass, Alaska  
 > **L. Blatny**, D. Hamre, J. Gaume, P. Gauer and A. Mears    
-> _Cold Regions Science and Technology_, vol. X (2026)    
+> _Cold Regions Science and Technology_, vol. 245 (2026)    
 > [View at publisher](https://doi.org/10.1016/j.coldregions.2025.104812)    
 > ![issw](/images/cover_BV1982.gif)   
 
