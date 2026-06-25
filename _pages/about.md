@@ -21,11 +21,36 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 # Publications
 
+
 > ### Observations and modeling of slushflows from Atigun Pass, Alaska  
 > **L. Blatny**, D. Hamre, J. Gaume, P. Gauer and A. Mears    
 > _Cold Regions Science and Technology_, vol. 245 (2026)    
 > [View at publisher](https://doi.org/10.1016/j.coldregions.2025.104812)    
 > ![issw](/images/cover_BV1982.gif)   
+
+<br/><br/>
+
+> ### A stabilized fractional-step MPM with pressure gradient projection for coupled hydromechanical extreme deformations  
+> M. M. Juel, H. Vicari, Y. Zhao, **L. Blatny**, C. Jiang and J. Gaume     
+> _Computer Methods in Applied Mechanics and Engineering_, vol. 461 (2026)    
+> [View at publisher](https://doi.org/10.1016/j.cma.2026.119140)    
+> ![cmame](/images/cover_sphere.png)   
+
+<br/><br/>
+
+> ### Unified sparse framework for large-scale material point method simulations 
+> Y. Zhao, **L. Blatny**, X. Feng, M. M. Juel, C. Jiang and J. Gaume     
+> _ArXiv Preprint_, 2605.28525 (2026)    
+> [View at publisher](https://doi.org/10.48550/arXiv.2605.28525)    
+> ![sparse](/images/cover_sparse.png)   
+
+<br/><br/>
+
+> ### Frictional weakening in the highly mobile 2025 Blatten (Switzerland) rock–ice avalanche
+> J. Kang , A. Lucas, A. Mangeney, J. Gaume, K. Allstadt, C. Hibert, L. Toney, H. Vicari, M. Dietze, M. Jacquemart, M. Peruzzetto, **L. Blatny**, M. Kyburz, J. Rimpot, D. Farinotti and F. Walter      
+> _EarthArXiv Preprint_ (2026)    
+> [View at publisher](https://doi.org/10.31223/X5Z48H)    
+> ![blatten](/images/cover_blatten.gif)   
 
 <br/><br/>
 
@@ -105,6 +130,12 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 # Invited talks and presentations
 
+* Jul 23, 2026: _Modeling cohesive viscoplastic geophysical flows with the material point method_,     
+[17th World Congress on Computation Mechanics (WCCM)](https://wccm-eccomas2026.org/), Yokohama      
+
+* Feb 13, 2026: _3D continuum modeling of mass movements_,    
+[SWICCOMAS 2026](https://swiccomas.ch/2466-2/), Bern, Switzerland      
+
 * Jun 25, 2025: _MPM modeling of alpine mass movements with granular rheologies_  
 [4th IMA Conference on Dense Granular Flows](https://cdn.ima.org.uk/wp/wp-content/uploads/2025/06/4th-IMA-Conference-on-Dense-Granular-Flows-Timetable_0006.pdf), Cambridge, UK  
 
@@ -133,7 +164,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 [IGS International Symposium on Snow](https://www.igsoc.org/wp-content/uploads/2022/09/index_davos.html), Davos, Switzerland     
 
 * Aug 2, 2022: _Plastic collapse in porous brittle solids_   
-[15th World Congress on Computation Mechanics (WCCM)](https://www.wccm2022.org/), Yokohama (virtual)  
+[15th World Congress on Computation Mechanics (WCCM)](https://www.wccm2022.org/), Yokohama, Japan (virtual)  
 
 * May 10, 2022: _Constitutive modeling of snow_   
 [MultiPLES Laboratory](https://www.math.ucla.edu/multiples/), University of California, Los Angeles, USA    
@@ -142,10 +173,10 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 [XVI International Conference on Computational Plasticity (COMPLAS)](https://congress.cimne.com/complas2021/frontal/default.asp), Barcelona, Spain   
 
 * Apr 27, 2021: _A unified framework for computational microstructure-based snow mechanics_  
-[EGU General Assembly](https://meetingorganizer.copernicus.org/EGU21/EGU21-6108.html), Vienna (virtual)   
+[EGU General Assembly](https://meetingorganizer.copernicus.org/EGU21/EGU21-6108.html), Vienna, Austria (virtual)   
 
 * May 8, 2020: _Microstructure-based modeling of snow using the material point method and finite strain elastoplasticity_  
-[EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10203.html), Vienna (virtual)  
+[EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10203.html), Vienna, Austria (virtual)  
 
 <br/><br/>
 
