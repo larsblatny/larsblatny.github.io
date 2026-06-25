@@ -131,7 +131,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 # Invited talks and presentations
 
 * Jul 23, 2026: _Modeling cohesive viscoplastic geophysical flows with the material point method_,     
-[17th World Congress on Computation Mechanics (WCCM)](https://wccm-eccomas2026.org/), Yokohama      
+[17th World Congress on Computation Mechanics (WCCM)](https://wccm-eccomas2026.org/), Munich, Germany      
 
 * Feb 13, 2026: _3D continuum modeling of mass movements_,    
 [SWICCOMAS 2026](https://swiccomas.ch/2466-2/), Bern, Switzerland      
